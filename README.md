@@ -12,7 +12,7 @@ Serviço desenvolvido em c++  para fazer a comunicação entre o econect(pdv) e 
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
-- [Como executar o monitec](#-Como-executar-o-monitec)
+- [Como executar o econect-device](#-Como-executar-o-econect-device)
 - [Features](#-Features)
 - [Contribuidores](#-Contribuidores)
 - [Autor](#-Autor)
