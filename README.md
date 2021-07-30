@@ -6,11 +6,10 @@
                                                                                                                                                  
 <p align="center"> 
 
-## 💻 Monitec
+## 💻 Econect-device
                  
-O monitec é uma plataforma de monitoramento de funções e equipamentos de tecnologia que busca ampliar a visão de gestores de TI sobre o sistema e suas funcionalidades, oferecendo métricas para a tomada de decisão.
-                 
-Com um design baseado nas melhores práticas de UX fornece dados em tempo real para a análise da performance, ações preventivas, conexões e comunicações, entre outros. O monitec pode monitorar os seguintes itens.
+Serviço desenvolvido em c++  para fazer a comunicação o econect  (pdv )e os hardwares(impressoras fiscais, balanças scanners e etc)  que é uma dependência do econect, atualmente é usado o javacom para fazer essa conexão, porem alguns devices ainda usam esse serviço.![image](https://user-images.githubusercontent.com/45698040/127699678-38fabc6f-1702-4d4b-9395-156b576e8d73.png)
+
                  
                  
 <strong>Carga:</strong> Acompanhamento de fluxo de carga do PDV.
