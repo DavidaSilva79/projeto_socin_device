@@ -39,8 +39,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 
 ## 🚀 Como executar o econect-device.
-        🚧 Em construção... 🚧                                                                                                     
-
+                                           
+O econect-device é executado junto com o econect pois o mesmo é uma dependência dele, o projeto é importado no processo de execução do ambiente e workspace do econect.
+                                                                                    
 ## 💫 Features
 
 O conteúdo referente as features do monitec se encontra no local  do link abaixo.
