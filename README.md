@@ -1,11 +1,9 @@
 
+
 <p align="center"> 
       <img src="https://avatars.githubusercontent.com/u/48964967?v=4 width="350px" height="400px"/>
-      <img src="https://static.wixstatic.com/media/b62a2d_c2df19675c714549aaa69b335bf37e13~mv2.png/v1/fill/w_188,h_188,al_c,q_85,usm_0.66_1.00_0.01/monitec_2.webp" alt="monitec_2.png" style="width: 94px; height: 94px; object-fit: cover; object-position: 50% 50%;">  
-     
-                                                                                                                                                 
 <p align="center"> 
-
+                 
 ## 💻 Econect-device
                  
 Serviço desenvolvido em c++  para fazer a comunicação entre o econect(pdv) e os hardwares(impressoras fiscais, balanças, scanners e etc)  que é uma dependência do econect, atualmente é usado o javacom para fazer essa conexão, porem alguns devices ainda usam esse serviço.
