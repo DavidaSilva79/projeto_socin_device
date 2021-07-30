@@ -40,7 +40,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🚀 Como executar o econect-device.
                                            
-O econect-device é executado junto com o econect pois o mesmo é uma dependência dele, o projeto é importado no processo de execução do ambiente e workspace do econect.
+O econect-device é executado junto com o econect pois o mesmo é uma dependência dele, o projeto é importado no processo de montagem e execução do ambiente e workspace do econect.
                                                                                     
 ## 💫 Features
 
