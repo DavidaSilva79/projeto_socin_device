@@ -6,7 +6,7 @@
                  
 ## 💻 Econect-device
                  
-Serviço desenvolvido em c++  para fazer a comunicação entre o econect(pdv) e os hardwares(impressoras fiscais, balanças, scanners e etc)  que é uma dependência do econect, atualmente é usado o javacom para fazer essa conexão, porem alguns devices ainda usam esse serviço.
+O econect-device é um serviço desenvolvido em c++ para fazer a comunicação entre o econect(pdv) e os hardwares(impressoras fiscais, balanças, scanners e etc), atualmente é usado o javacom para fazer essa conexão, porem alguns devices ainda usam esse serviço, o econect-device é uma das dependência do econect.
 
                  
 ## Tópicos
