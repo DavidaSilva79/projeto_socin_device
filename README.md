@@ -11,24 +11,6 @@
 Serviço desenvolvido em c++  para fazer a comunicação o econect  (pdv )e os hardwares(impressoras fiscais, balanças scanners e etc)  que é uma dependência do econect, atualmente é usado o javacom para fazer essa conexão, porem alguns devices ainda usam esse serviço.
 
                  
-                 
-<strong>Carga:</strong> Acompanhamento de fluxo de carga do PDV.
-
-<strong>Hardware:</strong>  Gerenciamento funcional de Hardware.
-
-<strong>Integrações:</strong> Controle e acompanhamento das integrações. 
-
-<strong>Movimento:</strong> Follow Up e Gerenciamento de vendas.
-
-<strong>NFCE:</strong> Controle e monitoramento de cupons fiscais.
-                 
-<strong>SAT:</strong> Controle e monitoramento de de cupons fiscais.
-                 
-<strong>Serviços:</strong> Gestão de dados online. 
-                 
-<strong>Versões:</strong> Releases, concentrador, matriz, pdvs  módulos. 
-                 
-
 ## Tópicos
 
 - [Tecnologias](#-Tecnologias)
