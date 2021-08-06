@@ -44,7 +44,7 @@ O econect-device é executado junto com o econect pois o mesmo é uma dependênc
                                                                                     
 ## 💫 Features
 
-O conteúdo referente as features do monitec se encontra no local  do link abaixo.
+O conteúdo referente as features do econect-device se encontra no local  do link abaixo.
 
 https://socincompany.atlassian.net/wiki/spaces/E
 
